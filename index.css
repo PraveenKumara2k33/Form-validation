@@ -1,0 +1,22 @@
+.space{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.center1{
+    text-align: center;
+    border: 5px solid violet;
+    width: 400px;
+    margin-left: 35%;
+    padding: 20px;
+}
+button{
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid rgb(26, 221, 172);
+    background-color: antiquewhite;
+}
